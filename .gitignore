@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Environment and sensitive variables
+.env
+.env.local
+*.pem
+*.key
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Coverage / Build outputs
+coverage/
+dist/
+build/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Terraform states
+*.tfstate
+*.tfstate.backup
+.terraform/
