@@ -1,0 +1,8 @@
+apiVersion: v2
+name: cloud-native-app
+description: Production-grade Helm Chart for Cloud-Native Microservice
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+maintainers:
+  - name: Sameer Khan
